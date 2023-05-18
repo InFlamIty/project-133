@@ -1,0 +1,66 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 30px;
+    color: red;
+    font: bold;
+    background-image: linear-gradient(to bottom right , purple , blue);
+    margin: 0px;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: 10px 10px red;
+}
+#office
+{
+    background-image: linear-gradient(to bottom right , purple , blue);
+    color: red;
+    height: 40px;
+    width: 140px;
+    font-size: 20px;
+    box-shadow: 10px 10px red;
+}
+#bedroom
+{
+    background-image: linear-gradient(to bottom right , purple , blue);
+    color: red;
+    height: 40px;
+    width: 140px;
+    font-size: 20px;
+    box-shadow: 10px 10px red;
+}
+#living
+{
+    background-image: linear-gradient(to bottom right , purple , blue);
+    color: red;
+    height: 40px;
+    width: 140px;
+    font-size: 20px;
+    box-shadow: 10px 10px red;
+}
+#kitchen
+{
+    background-image: linear-gradient(to bottom right , purple , blue);
+    color: red;
+    height: 40px;
+    width: 140px;
+    font-size: 20px;
+    box-shadow: 10px 10px red;
+}
+#garage
+{
+    background-image: linear-gradient(to bottom right , purple , blue);
+    color: red;
+    height: 40px;
+    width: 140px;
+    font-size: 20px;
+    box-shadow: 10px 10px red;
+}
+.office_img
+{
+    width: 1200px;
+    height: 1000px;
+}
